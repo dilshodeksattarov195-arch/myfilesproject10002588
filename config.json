@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifysalculate",
+        "uuid": 2880444,
+        "checksum": "45go4c"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
